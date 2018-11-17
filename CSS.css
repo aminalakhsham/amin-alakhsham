@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    background: black;
+    font-family: Rajdhani;
+
+}
+.all{
+    width: 1200px;
+    margin-left: 6%;
+    background: white;
+    height: 663px;
+}
+.top-line{
+    width: 100%;
+    height: 30px;
+    background: #00cc99;
+}
+.name{
+    font-weight: normal;
+    font-size: 100px;
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 0;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    background-image: url('1.jpg');
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+hr{
+    border: 0;
+    width: 80px;
+    height: 5px;
+    background: gray;
+    margin: 0;
+    margin-left: 30%;
+}
+.uni{
+    font-weight: normal;
+    margin: 20px 0px 20px 280px;
+    font-size: 30px;
+}
+.bot-line{
+    margin-left: 10%;
+    width: 80%;
+    height: 30px;
+    background: #e6e6e6;
+}
+.profile{
+    margin-left: 120px;
+    float: left;
+}
+.contact{
+    color: #00cc99; 
+    letter-spacing: 10px;
+}
+img{
+    height: 30px;
+    width: 30px;
+    vertical-align: middle;
+}
+.profile1{
+    margin-left: 550px;
+    margin-right: 120px;
+    font-weight: bold;
+}
+
+.url{
+    margin-bottom: 15px;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    margin-left: 5px;
+}
